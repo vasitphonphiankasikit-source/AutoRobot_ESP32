@@ -1,5 +1,6 @@
 <h1>หุ่นยนต์วิ่งอัตโนมัติ</h1>
-
+<img src="robot_front.JPG" width="auto" height="300px">
+<img src="robot_behind.JPG" width="auto" height="300px">
 <h2>อุปกรณ์ที่ใช้:</h2>
 <ul>
   <li>สายไฟจัมเปอร์</li>
