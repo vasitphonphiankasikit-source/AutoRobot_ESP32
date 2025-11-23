@@ -10,7 +10,7 @@
   <li>Servo</li>
 </ul>
 
-<img src="diagram_auto_robot.png" width="auto" height=400px"></img>
+<img src="diagram_auto_robot.png" width="auto" height="400px">
 
 <h2>หลักการทำงาน:</h2>
  เมื่อเริ่มกดปุ่ม หุ่นยนต์ตัวนี้จะเริ่มวิ่งทันที และถ้าเซนเซอร์ เจอวัตถุที่อยู่ข้างหน้า จะหยุดทันทีและ 
